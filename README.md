@@ -20,6 +20,11 @@ input: the weather temperature and information about the conditions.
 output: each day's weather conditions, minimum and maximum temperatures
 End
 
+Splash Screen:
 ![Screenshot (10)](https://github.com/Tiarushka/WeatherApp/assets/163915316/c519f257-d41c-43f7-8abf-41fb2e4f41cf)
+
+Main Screen
 ![2024-06-10 (1)](https://github.com/Tiarushka/WeatherApp/assets/163915316/4a107c36-81b7-4d9e-9ad8-2d480b2a2889)
+
+Detailed View Screen
 ![2024-06-10 (4)](https://github.com/Tiarushka/WeatherApp/assets/163915316/76581aa8-31d1-48ff-9a81-75bcd7ea3119)
