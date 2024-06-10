@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".InputActivity">
+
+    <EditText
+        android:id="@+id/etDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Day"/>
+
+    <EditText
+        android:id="@+id/etMin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Min"/>
+
+    <EditText
+        android:id="@+id/etMax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Max"/>
+
+    <EditText
+        android:id="@+id/etWeatherCondition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="WeatherCondition"/>
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Save"/>
+
+    <Button
+        android:id="@+id/buttonClear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Clear"/>
+
+    <Button
+        android:id="@+id/buttonDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Display"/>
+
+</LinearLayout>
