@@ -3,6 +3,8 @@ IMAD5112 Practicum (Exam)
 Tiarushka.Gounden
 ST10446839
 
+Powerpoint Link IMAD5112_Practicum_ST10446839_Tiarushka.Gounden (sharepoint.com)
+
 Project Title: Weather App
 
 Description: The Weather App used to provide the average temperature for the weeks and also allows the user to view detailed information for each day. This Android app will manage weekly weather conditions.
