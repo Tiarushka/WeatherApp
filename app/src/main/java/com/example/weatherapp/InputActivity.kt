@@ -17,10 +17,10 @@ class InputActivity : AppCompatActivity() {
     private lateinit var buttonClear: Button
     private lateinit var buttonDisplay: Button
 
-    private lateinit var dayList = mutableListOf<String>()
-    private lateinit var minList = mutableListOf<Float>()
-    private lateinit var maxList = mutableListOf<Float>()
-    private lateinit var weatherconditionList = mutableListOf<String>()
+    private var dayList = mutableListOf<String>()
+    private var minList = mutableListOf<Float>()
+    private var maxList = mutableListOf<Float>()
+    private var weatherconditionList = mutableListOf<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -57,7 +57,7 @@ class InputActivity : AppCompatActivity() {
                     etMax.setText("")
                     etWeatherCondition.setText("")
                 }
-                catch (e: NumberFormatException) {
+                catch (e: NumberFormatException){
 
                 }
 

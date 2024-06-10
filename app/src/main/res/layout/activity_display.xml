@@ -12,34 +12,35 @@
         android:id="@+id/textviewDay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
-        android:textSize="40dp"/>
+        android:text="Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
+        android:textSize="40sp"/>
 
     <TextView
         android:id="@+id/textviewMin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
-        android:textSize="40dp"/>
+        android:text="12, 15, -, -, -, 10, 10"
+        android:textSize="40sp"/>
 
     <TextView
         android:id="@+id/textviewMax"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
-        android:textSize="40dp"/>
+        android:text="25, 29, -, -, -, 10,18"
+        android:textSize="40sp"/>
 
     <TextView
         android:id="@+id/textviewWeatherCondition"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
-        android:textSize="40dp"/>
+        android:text="Sunny, Sunny, -, -, -, Raining, Cold"
+        android:textSize="40sp"/>
 
     <Button
         android:id="@+id/buttonBack"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"/>
+        android:text="Back"
+        android:textSize="40sp"/>
 
 </LinearLayout>
