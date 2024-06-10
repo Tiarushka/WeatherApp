@@ -2,7 +2,7 @@ IMAD5112 Practicum (Exam)
 
 Project Title: Weather App
 
-Description: The Weather App used to provide the average temerature for the weeks and also allows the user to view detailed information for each day. This Adroid app will manage weekly weather conditions.
+Description: The Weather App used to provide the average temperature for the weeks and also allows the user to view detailed information for each day. This Android app will manage weekly weather conditions.
 
 Installation: Android device. Internet connection.
 
