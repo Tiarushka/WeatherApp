@@ -21,10 +21,13 @@ output: each day's weather conditions, minimum and maximum temperatures
 End
 
 Splash Screen:
+It includes the app logo, name of the app, my name, student number, a button which sends the user to the main screen and a button which is used to exit the app.​
 ![Screenshot (10)](https://github.com/Tiarushka/WeatherApp/assets/163915316/c519f257-d41c-43f7-8abf-41fb2e4f41cf)
 
-Main Screen
+Main Screen:
+This is the main screen where the user will be able to view the weather temperatures and the detailed information for the day.​
 ![2024-06-10 (1)](https://github.com/Tiarushka/WeatherApp/assets/163915316/4a107c36-81b7-4d9e-9ad8-2d480b2a2889)
 
-Detailed View Screen
+Detailed View Screen:
+This will be where all the displayed detailed information will be stored. Each day will include the minimum and maximum temperatures, weather conditions and any other relevant information. The button at the bottom of the screen will allow users to navigate back to the main screen.​
 ![2024-06-10 (4)](https://github.com/Tiarushka/WeatherApp/assets/163915316/76581aa8-31d1-48ff-9a81-75bcd7ea3119)
